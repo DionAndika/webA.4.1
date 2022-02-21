@@ -1,1 +1,4 @@
 Silahkan tuliskan NAMA, NPM dan Alamat Github masing-masing
+Nama: Dion Andika
+Npm: 2035008
+Alamat Github: https://github.com/DionAndika/belajarphp
